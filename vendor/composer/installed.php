@@ -3,7 +3,7 @@
         'name' => 'staticnur/hangman',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '993e475646e9e38b155954d31c4c95fed4901187',
+        'reference' => '56d24b2c6e7b13b1024ff1b9fe324fcca3e25a35',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'staticnur/hangman' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '993e475646e9e38b155954d31c4c95fed4901187',
+            'reference' => '56d24b2c6e7b13b1024ff1b9fe324fcca3e25a35',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

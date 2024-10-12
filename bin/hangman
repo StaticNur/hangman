@@ -2,6 +2,7 @@
 <?php
 require __DIR__ . '/../vendor/autoload.php';
 
-use Staticnur\Hangman\Controller;
+use Staticnur\Hangman\Controller\GameController;
 
-Controller\startGame();
+$controller = new GameController();
+$controller->startNewGame();

@@ -8,8 +8,9 @@
             "Staticnur\\Hangman\\": "src/"
         },
         "files": [
-            "src/Controller.php",
-            "src/View.php"
+            "src/Controller/GameController.php",
+            "src/View/GameView.php",
+            "src/Model/Game.php"
         ]
     },
     "bin": [
@@ -17,7 +18,7 @@
     ],
     "authors": [
         {
-            "name": "staticnur",
+            "name": "StaticNur",
             "email": "gsjxne@gmail.com"
         }
     ],

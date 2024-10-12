@@ -8,8 +8,9 @@ class ComposerStaticInitd21c2787b1318423c66021204358f835
 {
     public static $files = array (
         'be01b9b16925dcb22165c40b46681ac6' => __DIR__ . '/..' . '/wp-cli/php-cli-tools/lib/cli/cli.php',
-        'ac41265bed84c38c071380c43dd7fc7c' => __DIR__ . '/../..' . '/src/Controller.php',
-        '293b13cfd3c17bedbce9c577c667a395' => __DIR__ . '/../..' . '/src/View.php',
+        '5be79f0c7d86781d2b2294121da9f952' => __DIR__ . '/../..' . '/src/Controller/GameController.php',
+        '5fb42604fe35ab8f932b2ba4ac66cfeb' => __DIR__ . '/../..' . '/src/View/GameView.php',
+        '872be5620b4b212cdf749bbb57f982cf' => __DIR__ . '/../..' . '/src/Model/Game.php',
     );
 
     public static $prefixLengthsPsr4 = array (
