@@ -20,12 +20,20 @@ class ComposerStaticInitd21c2787b1318423c66021204358f835
         array (
             'Staticnur\\Hangman\\' => 18,
         ),
+        'R' => 
+        array (
+            'RedBeanPHP\\' => 11,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'Staticnur\\Hangman\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'RedBeanPHP\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/gabordemooij/redbean/RedBeanPHP',
         ),
     );
 

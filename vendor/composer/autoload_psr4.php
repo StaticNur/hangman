@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Staticnur\\Hangman\\' => array($baseDir . '/src'),
+    'RedBeanPHP\\' => array($vendorDir . '/gabordemooij/redbean/RedBeanPHP'),
 );
